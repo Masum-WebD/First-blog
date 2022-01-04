@@ -1,0 +1,46 @@
+.flexiable-display{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.header-blog{
+    width: 50%;
+    padding-left: 40px;
+    margin-left:20px
+}
+.header-blog img{
+    height: 200px;
+    width: 80%;
+    height: 70%;
+    border-radius:15px;
+    margin-top:5px
+}
+h1{
+    font-size: 50px;
+}
+.lalpur-image {
+    width:50%;
+    height:100%;
+    padding-left:40px;
+       
+}
+.lalpur-image img {
+    width:90%;
+    
+}
+.lalpur-text{
+    width:50%
+}
+.padma-river-text{
+    width:50%;
+    padding-left:20px
+}
+
+
+.padma-river-image{
+    width: 50%;
+    padding-left:40px;
+}
+.padma-river-image img {
+    width: 100%;
+}
